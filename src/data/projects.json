@@ -1,0 +1,35 @@
+[
+  {
+    "title": "OCHI",
+    "description": "It’s a website inspired from a design agency built using",
+    "skills": [
+      "React",
+      "Tailwind",
+      "Locomotive.js"
+    ],
+    "demo": "https://ochi-new.netlify.app",
+    "source": "https://github.com/Ankitsingh-22/Ochi"
+  },
+  {
+    "title": "Milk Network",
+    "description": "It’s a web that has been made using the front-end languages",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "demo": "https://milk-web.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Netflix Clone",
+    "description": "It is a web-application that has been made using the front-end languages ",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

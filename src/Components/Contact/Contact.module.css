@@ -1,0 +1,88 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 120px;
+  background-color: var(--color-secondary);
+  width: 100vw;
+  padding: 60px 10%;
+}
+.sec{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 350px;
+}
+.text h2 {
+  font-size: 70px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.text p {
+  font-size: 30px;
+  font-weight: 200;
+  letter-spacing: 1px;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style: none;
+  gap: 26px;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.link a {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 200;
+  letter-spacing: 1.5px;
+}
+.icons{
+font-size: 35px;
+height: 34px;
+}
+
+.tmark{
+  display: flex;
+  width: 80vw;
+  padding: 38px 10%;
+  gap: 255px;
+  margin-bottom: -70px;
+  border-top: 1px solid black;
+  margin-top: 50px;
+}
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .tmark{
+    gap: 80px;
+  }
+  .sec{
+    gap:50px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+  }
+
+  .links {
+    align-items: center;
+  }
+}
