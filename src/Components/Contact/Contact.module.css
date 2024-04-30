@@ -46,6 +46,10 @@
   font-weight: 200;
   letter-spacing: 1.5px;
 }
+.link a:hover{
+  color: rgb(177, 176, 176);
+  transition: 0.3s ease-in-out;
+}
 .icons{
 font-size: 35px;
 height: 34px;

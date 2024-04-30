@@ -49,6 +49,10 @@
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
+.contactBtn:hover{
+  background-color: rgb(61, 61, 230);
+  transition: 0.4s ease-out;
+}
 
 .heroImg {
   width: 50%;

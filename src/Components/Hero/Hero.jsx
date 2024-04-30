@@ -12,13 +12,13 @@ export const Hero = () => {
           I'm a Front-end developer proficient in HTML, CSS, JavaScript, React. 
           Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="ankitmailme1@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src="./src/assets/profile\profile-web.jpg"
-        alt="Hero image of me"
+        src="https://i.postimg.cc/htywHs0g/profile-web.jpg"
+        alt="image of me"
         className={styles.heroImg}
       />
       <div className={styles.topBlur} />

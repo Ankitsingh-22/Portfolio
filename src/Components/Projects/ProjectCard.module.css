@@ -67,6 +67,6 @@
   font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 .link:hover{
-  color:aliceblue;
   background-color: rgb(9, 86, 153);
+  transition: 0.3s ease-in-out;
 }
