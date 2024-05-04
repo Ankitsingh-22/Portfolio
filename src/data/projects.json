@@ -31,5 +31,16 @@
     ],
     "demo": "https://netof.netlify.app/",
     "source": "https://www.github.com"
+  },
+  {
+    "title": "Tick-Tac-Toe game",
+    "description": "It is a web-application that has been made using the front-end languages ",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "demo": "https://github.com/Ankitsingh-22/Tic-tack-toe",
+    "source": "https://www.github.com"
   }
 ]
