@@ -19,7 +19,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img className={styles.logo} src="https://scontent.fccu20-1.fna.fbcdn.net/v/t39.30808-6/347803911_251220180787081_3536313822079161094_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=JVzSMmXe9_wAb49KjTE&_nc_ht=scontent.fccu20-1.fna&oh=00_AfCO--hglO2bUBDBK3yJKA5HdEuS5z6eQfsck24SVCW1uQ&oe=66303513" alt="clg-logo" />
+            <img className={styles.logo} src="https://upload.wikimedia.org/wikipedia/en/d/d7/Sarla_Birla_University_logo.png" alt="clg-logo" />
             <div className={styles.aboutItemText}>
               <h3>Diploma In Computer Science Engineering</h3>
               <p>
@@ -29,7 +29,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img className={styles.logo} src="https://scontent.fccu20-1.fna.fbcdn.net/v/t39.30808-6/400786879_746798777465286_6137831823845973388_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PkuRlSvAdJUQ7kNvgFvoBMg&_nc_ht=scontent.fccu20-1.fna&oh=00_AfCw7-HDLQEMTsMi-q_fKBtMcFyNq0_D49HN8PcM4b3-Ag&oe=662FCE9F" alt="school-logo" />
+            <img className={styles.logo} src="https://scontent.fccu20-1.fna.fbcdn.net/v/t39.30808-6/400786879_746798777465286_6137831823845973388_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PmRyvx0hU1wQ7kNvgEn9dxZ&_nc_ht=scontent.fccu20-1.fna&oh=00_AYB8tA9YkmE8mKJe7GwBVj9ZFetpfyKtElId4Vi0TzPZXg&oe=664EC9DF" alt="school-logo" />
             <div className={styles.aboutItemText}>
               <h3>X (WBSE) | School	</h3>
               <p>
